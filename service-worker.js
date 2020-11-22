@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9101948ed03db8f5a1e1deb8931c92bd.js"
+  "/precache-manifest.d67bd8da5c437374ee396d046b738c13.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tmc-exam"});
